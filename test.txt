@@ -1,4 +1,8 @@
 hello World
 lalala
 
+<<<<<<< HEAD
 xixixi
+=======
+hahaha
+>>>>>>> edfeac34ef3bfaf0e6b0c0a3a9b690988223ec2c
